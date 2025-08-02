@@ -41,7 +41,7 @@ export default function LoginPage(){
             className="p-2 border border-gray-300 rounded-lg mb-4 focus:outline-none focus:border-3">Login
             </button>
             <Link href="/signup" className="text-blue-500 hover:underline">
-                Don't have an account? Signup
+                Dont have an account? Signup
             </Link>
         </div>
     )
